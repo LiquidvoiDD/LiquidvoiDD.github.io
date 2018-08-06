@@ -3,29 +3,29 @@ p {
   font-family: Palatino, 'Palatino Linotype', serif;
 }
 
-.main {background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMrHlUrZlDs4CUNgXziqTRjBhgphQar_148WegJQf_eax1e2P");
-background-size: 2560px × 1600px;
+.main {background-image: url("https://vignette.wikia.nocookie.net/narutofanon/images/3/31/Anime-sky-309110.jpg/revision/latest?cb=20130901214503");
+background-size: cover;
 }
 
 h1 {
-  color: rgb(32,54,15);
+  color: rgb(3,5,1);
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 60px;
 }
 
 h2 {
-  color: rgb(76,10,10);
+  color: rgb(7,1,1);
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 h3 {
-  color: rgb(7,100,1);
+  color: rgb(7,10,1);
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 30px;
 }
 
 h4 {
-  color: rgb(76,10,5);
+  color: rgb(7,10,5);
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 25px;
   
@@ -33,6 +33,6 @@ h4 {
 
 
 li {
-   color: rgb(6,10,10);
+   color: rgb(6,10,1);
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
