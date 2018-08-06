@@ -8,17 +8,22 @@ h1 {
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
-h2{
+h2 {
   color: rgb(76,10,100)
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
-h3{
+h3 {
   color: rgb(76,100,100)
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
-h4{
+h4 {
   color: rgb(76,100,50)
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+li {
+   color: rgb(76,100,100)
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
