@@ -4,26 +4,26 @@ p {
 }
 
 h1 {
-  color: rgb(32,54,15)
+  color: rgb(32,54,15);
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 h2 {
-  color: rgb(76,10,100)
+  color: rgb(76,10,100);
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 h3 {
-  color: rgb(76,100,100)
+  color: rgb(76,100,100);
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 h4 {
-  color: rgb(76,100,50)
+  color: rgb(76,100,50);
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 li {
-   color: rgb(76,100,100)
+   color: rgb(76,100,100);
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
