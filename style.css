@@ -1,3 +1,17 @@
+body{
+  background-color: #EEEEEE;
+}
+
+
+
 #header {
   background-color: #4D6BFF;
+}
+#name {
+  background-color: #ffb965;
+  color:  #ff0000;
+}
+#intro {
+  background-color: #ffb965;
+  color:  #ff0000;
 }
