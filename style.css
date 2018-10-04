@@ -1,9 +1,10 @@
 body{
 background: linear-gradient(#ffffff,#a2a2a2);
+text-align: center;
 }
 
 #container{
-  text-align: center;
+  
   width: 800px;
 }
 
