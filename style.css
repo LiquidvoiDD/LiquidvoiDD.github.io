@@ -26,6 +26,7 @@ body{
   padding: 10px;
 }
   #contact{
+    background-color: #08e379;
     width: 385 px;
     float: left;
   }
@@ -34,3 +35,11 @@ body{
   width: 385 px;
   float: right;
   }
+#work{
+   background-color: #ffb965;
+  width: 780 px;
+}
+#edu{
+   background-color: #08e379;
+   width: 780 px;
+}
