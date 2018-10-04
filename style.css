@@ -3,6 +3,9 @@ body{
 }
 #container{
   background-color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -12,8 +15,10 @@ body{
 #name {
   background-color: #ffb965;
   color:  #ff0000;
+  text-align: center;
 }
 #intro {
   background-color: #ffb965;
   color:  #ff0000;
+  text-align: center;
 }
