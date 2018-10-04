@@ -1,8 +1,10 @@
 body{
-background: linear-gradient(#ffffff,#c8cfff);
+background: linear-gradient(#ffffff,#a2a2a2);
 }
 
-#container
+#container{
+  text-align: center;
+}
 
 #content-contact
 
