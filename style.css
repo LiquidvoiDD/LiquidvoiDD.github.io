@@ -28,3 +28,8 @@ body{
     width: 385 px;
     float: left;
   }
+
+#picture{
+  width: 385 px;
+  float: right;
+  }
