@@ -1,47 +1,31 @@
 body{
-  background-color: #EEEEEE;
-}
-#container{
-  background-color: white;
-  width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+background: linear-gradient(#ffffff,#c8cfff);
 }
 
+#container
 
-#header {
-  background-color: #4D6BFF;
-  padding: 10px;
-  width: 780;
-}
-#name {
-  background-color: #ffb965;
-  color:  #ff0000;
-  text-align: center;
-  padding: 10px;
-#intro {
-  background-color: #ffb965;
-  color:  #ff0000;
-  text-align: center;
-  padding: 10px;
-}
-  #contact{
-    background-color: #08e379;
-    width: 385 px;
-    float: left;
-  }
+#content-contact
 
-#picture{
-  width: 385 px;
-  float: right;
-  }
-#work{
-   background-color: #ffb965;
-  width: 780 px;
-  text-align: center;
-}
-#edu{
-   background-color: #08e379;
-   width: 780 px;
-}
-  #pic{float: right;}
+#content-info
+
+#content-body
+
+#content-summary
+
+#pic
+
+#content-summarycontent
+
+#content-work
+
+#content-workheader
+
+#content-threesquares
+
+#block-date
+
+#date
+
+#block-content
+
+#content-McDonalds
