@@ -45,5 +45,11 @@ color: blue;
 
 #content-McDonalds
 
-ul {list-style-type: square;
+li {
+    list-style: disc outside none;
+    margin-left: 1em;
+}
+
+ul {
+    margin: 1em;
 }
