@@ -44,3 +44,7 @@ color: blue;
 #block-content
 
 #content-McDonalds
+
+ul:{list-style-type: square;
+color: blue;
+    font-family: verdana;}
