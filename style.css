@@ -48,6 +48,9 @@ color: blue;
 li {
     list-style: disc outside none;
     margin-left: 1em;
+  color: blue;
+    font-family: verdana;
+    
 }
 
 ul {
