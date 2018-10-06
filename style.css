@@ -46,13 +46,14 @@ color: blue;
 #content-McDonalds
 
 li {
-    list-style: square outside none;
+    
     margin-left: 1em;
  
     
 }
 
 ul {
+  list-style: square outside none;
     margin: 1em;
    color: blue;
     font-family: verdana;
