@@ -3,7 +3,7 @@ background: linear-gradient(#ffffff,#a2a2a2);
 
 }
 
-#container{
+#container {
 width: 600px;
 border: 14px ridge #A2A2A2;
 border-radius: 0px 40px 0px 0px;
@@ -35,11 +35,11 @@ text-decoration: underline;
 
 #content-body
 
-#content-summary{margin-left: 2em;
+#content-summary {margin-left: 2em;
    color: #6d6c6c;
    font-family: arial;}
 
-h6 {margin-left: 2em;
+h6 {margin: auto;
    color: #6d6c6c;
    font-family: arial;}
 
@@ -57,7 +57,7 @@ color: blue;
 
 #block-date
 
-#date
+#date {float: right}
 
 #block-content
 
@@ -83,3 +83,6 @@ h1 {font-family: arial;
 p {margin-left: 1em;
    color: #6b6b6b;
    font-family: verdana;}
+h5 {margin: auto
+  text-decoration: underline;
+    }
