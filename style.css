@@ -17,12 +17,14 @@ text-align:left;
 
 h4 {font-size: 24pt;
   font-family: arial;
-color:#282828;}
+color:#282828;
+  }
 
 h3 {font-size: 30;
 font-family:sans;
 color:#282828;
 text-decoration: underline;
+  margin-left: 1em;
 
 }
 
@@ -68,5 +70,9 @@ ul {
     font-family: verdana;
 }
 h1 {font-family: arial;
+    test-align: center;
     text-decoration: underline;
     font-size: 50px;}
+p {margin-left: 1em;
+   color: #6b6b6b;
+   font-family: verdana;}
