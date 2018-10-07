@@ -29,6 +29,7 @@ text-decoration: underline;
 }
 
 #content-contact
+ test-align: center;
 
 #content-info
 
@@ -70,7 +71,7 @@ ul {
     font-family: verdana;
 }
 h1 {font-family: arial;
-    test-align: center;
+   
     text-decoration: underline;
     font-size: 50px;}
 p {margin-left: 1em;
