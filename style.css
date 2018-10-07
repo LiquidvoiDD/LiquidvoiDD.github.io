@@ -81,7 +81,7 @@ p {margin-left: 1em;
   margin-top: 1em;
    color: #6b6b6b;
    font-family: verdana;
-  border-top-style: solid;
+  padding: 30px;
     line-height: 30px;}
 h5 {margin: auto;
   text-decoration: underline;
