@@ -57,7 +57,7 @@ color: blue;
 
 #block-date
 
-#date {float: right}
+#date {float: right;}
 
 #block-content
 
@@ -83,6 +83,6 @@ h1 {font-family: arial;
 p {margin-left: 1em;
    color: #6b6b6b;
    font-family: verdana;}
-h5 {margin: auto
+h5 {margin: auto;
   text-decoration: underline;
     }
