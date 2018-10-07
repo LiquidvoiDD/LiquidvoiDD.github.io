@@ -15,7 +15,7 @@ margin:auto;
   
 }
 
-h4 {font-size: 24pt;
+h4 {font-size: 24px;
   font-family: arial;
 color:#282828;
   }
@@ -35,9 +35,7 @@ text-decoration: underline;
 
 #content-body
 
-#content-summary {margin-left: 2em;
-   color: #6d6c6c;
-   font-family: arial;}
+#content-summary 
 
 h6 {margin: auto;
    color: #6d6c6c;
@@ -85,4 +83,5 @@ p {margin-left: 1em;
    font-family: verdana;}
 h5 {margin: auto;
   text-decoration: underline;
+  font-size: 40px;
     }
