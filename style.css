@@ -29,7 +29,7 @@ text-decoration: underline;
 }
 
 #content-contact
- test-align: center;
+ 
 
 #content-info
 
@@ -45,9 +45,8 @@ h6 {margin: auto;
 
 #content-summarycontent
 
-#content-work {
-color: blue;
-    font-family: verdana;}
+#content-work 
+
 
 #content-workheader
 
@@ -55,7 +54,7 @@ color: blue;
 
 #block-date
 
-#date {float: right;}
+#date 
 
 #block-content
 
