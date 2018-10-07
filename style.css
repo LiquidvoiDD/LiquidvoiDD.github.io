@@ -4,7 +4,7 @@ background: linear-gradient(#ffffff,#a2a2a2);
 }
 
 #container{
-width: 400px;
+width: 600px;
 border: 14px ridge #A2A2A2;
 border-radius: 0px 40px 0px 0px;
 padding:auto;
@@ -17,11 +17,14 @@ text-align:left;
 
 h4 {font-size: 24pt;
   font-family: arial;
-color:red;}
+color:#282828;}
 
 h3 {font-size: 30;
 font-family:sans;
-color:yellow;}
+color:#282828;
+text-decoration: underline;
+
+}
 
 #content-contact
 
@@ -59,8 +62,11 @@ li {
 }
 
 ul {
-  list-style: square outside none;
+  list-style: circle outside none;
     margin: 1em;
-   color: blue;
+   color: #161616;
     font-family: verdana;
 }
+h1 {font-family: arial;
+    text-decoration: underline;
+    font-size: 50px;}
